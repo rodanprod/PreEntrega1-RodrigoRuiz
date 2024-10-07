@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PreEntrega1-RodrigoRuiz/static/css/main.e6c13ad2.css",
+    "main.js": "/PreEntrega1-RodrigoRuiz/static/js/main.528fb726.js",
+    "static/js/453.c9016cb2.chunk.js": "/PreEntrega1-RodrigoRuiz/static/js/453.c9016cb2.chunk.js",
+    "index.html": "/PreEntrega1-RodrigoRuiz/index.html",
+    "main.e6c13ad2.css.map": "/PreEntrega1-RodrigoRuiz/static/css/main.e6c13ad2.css.map",
+    "main.528fb726.js.map": "/PreEntrega1-RodrigoRuiz/static/js/main.528fb726.js.map",
+    "453.c9016cb2.chunk.js.map": "/PreEntrega1-RodrigoRuiz/static/js/453.c9016cb2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.528fb726.js"
+  ]
+}
